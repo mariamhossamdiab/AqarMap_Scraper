@@ -1,4 +1,6 @@
 "# AqarMap_Scraper" 
+![image](https://github.com/user-attachments/assets/d79198ff-1877-4b8f-b62f-298c418902d8)
+
 # scraping 
 different categories of estates like: {apartment, commercial, property-type, villa,furnished-apartment,land-or-commercial}
 and their price, Adlink, Adtitle, area, status ( residential or commercial ), price/meter^2
